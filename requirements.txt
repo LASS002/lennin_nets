@@ -1,0 +1,1 @@
+# Dependencias e versoes exatas do ambiente Python (preencher)
